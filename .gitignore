@@ -1,0 +1,9 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor / Vault workspace metadata (when opening repo to preview)
+/.obsidian/
+/.vscode/
+/.idea/
